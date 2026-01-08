@@ -1,0 +1,432 @@
+{
+  "Adas": {
+    "scientific_name": "Foeniculum vulgare",
+    "description": "Adas (Fennel) is a fragrant herb traditionally used to soothe the digestive system. It is effective for relieving stomach discomfort and improving appetite.",
+    "benefits": ["Indigestion", "Gas", "Bloating", "Poor appetite"]
+  },
+  "Aloevera": {
+    "scientific_name": "Aloe barbadensis miller",
+    "description": "A succulent medicinal plant known for its soothing gel. It is widely used for skin repair, cooling burns, and supporting internal digestive health.",
+    "benefits": ["Burns", "Skin rashes", "Constipation", "Gastritis", "Wound healing"]
+  },
+  "Amla": {
+    "scientific_name": "Phyllanthus emblica",
+    "description": "A nutrient-rich fruit exceptionally high in Vitamin C. It is a powerful rejuvenator that supports immunity, hair strength, and digestive vitality.",
+    "benefits": ["Weak immunity", "Hair fall", "Indigestion", "Anemia support", "Fatigue"]
+  },
+  "Amruta_Balli": {
+    "scientific_name": "Tinospora cordifolia",
+    "description": "A versatile climbing shrub in Ayurveda. It is primarily used for managing fevers, boosting natural immunity, and supporting healthy blood sugar levels.",
+    "benefits": ["Fever", "Weak immunity", "Diabetes support", "Inflammation"]
+  },
+  "Andong Merah": {
+    "scientific_name": "Cordyline fruticosa",
+    "description": "A traditional medicinal plant with vibrant leaves. It is valued for its ability to purify blood and support the healing of external and internal inflammations.",
+    "benefits": ["Wound healing", "Skin inflammation", "Blood purification", "Digestive issues"]
+  },
+  "Arali": {
+    "scientific_name": "Nerium oleander",
+    "description": "An ornamental plant with traditional medicinal applications. Used externally in controlled traditional practices for skin-related inflammations.",
+    "benefits": ["Skin disorders", "Inflammation", "External wounds"]
+  },
+  "Ashoka": {
+    "scientific_name": "Saraca asoca",
+    "description": "A sacred tree in traditional medicine, particularly valued for women's health. It helps in balancing hormones and relieving stress.",
+    "benefits": ["Menstrual disorders", "Hormonal imbalance", "Uterine health support", "Stress"]
+  },
+  "Ashwagandha": {
+    "scientific_name": "Withania somnifera",
+    "description": "A premier adaptogenic herb that helps the body manage stress. It is widely used to improve sleep quality and combat physical and mental exhaustion.",
+    "benefits": ["Stress", "Anxiety", "Insomnia", "Chronic fatigue", "Muscle weakness"]
+  },
+  "Avacado": {
+    "scientific_name": "Persea americana",
+    "description": "A nutrient-dense fruit rich in healthy monounsaturated fats. It supports cardiovascular health and provides essential nourishment for dry skin and hair.",
+    "benefits": ["Heart health support", "Skin dryness", "Hair damage", "Nutrient deficiency"]
+  },
+  "Bamboo": {
+    "scientific_name": "Bambusoideae",
+    "description": "Rich in natural silica, bamboo extracts are used to strengthen connective tissues. It supports bone density and helps reduce bodily inflammation.",
+    "benefits": ["Bone weakness", "Joint pain", "Hair thinning", "Inflammation"]
+  },
+  "Basale": {
+    "scientific_name": "Basella alba",
+    "description": "A succulent leafy vegetable that acts as a natural coolant. It is excellent for soothing digestive irritation and relieving mild constipation.",
+    "benefits": ["Constipation", "Digestive irritation", "Skin inflammation"]
+  },
+  "Belimbing Wulu": {
+    "scientific_name": "Averrhoa bilimbi",
+    "description": "A sour medicinal fruit known for its high acidity and vitamin content. It is traditionally used to improve digestion and support immune function.",
+    "benefits": ["Digestive issues", "Weak immunity", "Acidity"]
+  },
+  "Beluntas": {
+    "scientific_name": "Pluchea indica",
+    "description": "A hardy shrub used in traditional herbal drinks. It is specifically known for its ability to reduce body odor and support digestive health.",
+    "benefits": ["Body odor", "Digestive weakness", "Inflammation"]
+  },
+  "Betadin": {
+    "scientific_name": "Jatropha multifida",
+    "description": "Commonly known as the 'iodine plant' due to its potent antiseptic sap. It is used as a first-aid remedy for cleaning and healing minor cuts.",
+    "benefits": ["Wound infections", "Skin infections", "External cuts"]
+  },
+  "Betel": {
+    "scientific_name": "Piper betle",
+    "description": "The betel leaf is a traditional digestive stimulant and oral freshener. It possesses antimicrobial properties that support gum health and respiratory relief.",
+    "benefits": ["Oral infections", "Bad breath", "Digestive weakness", "Cough"]
+  },
+  "Betel_Nut": {
+    "scientific_name": "Areca catechu",
+    "description": "Traditionally used in small quantities as a digestive stimulant. It is known for its astringent properties that support intestinal health.",
+    "benefits": ["Digestive stimulation", "Intestinal weakness", "Parasitic issues"]
+  },
+  "Brahmi": {
+    "scientific_name": "Bacopa monnieri",
+    "description": "A renowned nerve tonic and cognitive enhancer. It helps in improving focus, reducing anxiety, and supporting memory retention.",
+    "benefits": ["Memory loss", "Poor concentration", "Anxiety", "Insomnia"]
+  },
+  "Castor": {
+    "scientific_name": "Ricinus communis",
+    "description": "The source of castor oil, a powerful natural laxative. It is also used topically to relieve joint stiffness and soothe very dry skin.",
+    "benefits": ["Constipation", "Joint pain", "Muscle inflammation", "Skin dryness"]
+  },
+  "Cincau Perdu": {
+    "scientific_name": "Premna oblongifolia",
+    "description": "A plant used to make traditional grass jelly. It has significant cooling properties that help soothe gastric heat and prevent dehydration.",
+    "benefits": ["Digestive heat", "Gastric irritation", "Dehydration"]
+  },
+  "Curry_Leaf": {
+    "scientific_name": "Murraya koenigii",
+    "description": "An essential culinary herb with deep medicinal roots. It supports healthy blood sugar levels and is a traditional remedy for hair and digestive health.",
+    "benefits": ["Diabetes support", "Hair fall", "Poor digestion", "Anemia support"]
+  },
+  "Daun Afrika": {
+    "scientific_name": "Vernonia amygdalina",
+    "description": "A bitter-tasting medicinal leaf known for its strong detoxifying properties. It supports the immune system and helps in blood purification.",
+    "benefits": ["Inflammation", "Immune disorders", "Blood purification"]
+  },
+  "Daun Cabe Jawa": {
+    "scientific_name": "Piper retrofractum",
+    "description": "A species of long pepper used to stimulate appetite and improve digestion. It has warming properties that help relieve digestive cramps.",
+    "benefits": ["Digestive cramps", "Inflammation", "Appetite loss"]
+  },
+  "Daun Cocor Bebek": {
+    "scientific_name": "Kalanchoe pinnata",
+    "description": "Known as the 'miracle leaf,' it is widely used for its incredible skin-healing properties, especially for minor burns and inflammations.",
+    "benefits": ["Wound healing", "Skin inflammation", "Burns"]
+  },
+  "Daun Kumis Kucing": {
+    "scientific_name": "Orthosiphon aristatus",
+    "description": "Commonly known as 'Cat's Whiskers,' this plant is a powerful natural diuretic that supports kidney and urinary tract health.",
+    "benefits": ["Kidney stones (support)", "Urinary infections", "Water retention"]
+  },
+  "Daun Mangkokan": {
+    "scientific_name": "Polyscias scutellaria",
+    "description": "A traditional remedy for scalp health. The leaves are used to strengthen hair roots and soothe various skin inflammations.",
+    "benefits": ["Hair fall", "Scalp infections", "Skin inflammation"]
+  },
+  "Daun Suji": {
+    "scientific_name": "Dracaena angustifolia",
+    "description": "Beyond its use as a natural food colorant, Suji leaves are traditionally used to stimulate appetite and support general digestive function.",
+    "benefits": ["Digestive weakness", "Appetite loss"]
+  },
+  "Daun Ungu": {
+    "scientific_name": "Graptophyllum pictum",
+    "description": "A well-known traditional remedy for hemorrhoids. It has anti-inflammatory properties that help reduce swelling and digestive discomfort.",
+    "benefits": ["Hemorrhoids (piles)", "Inflammation", "Digestive discomfort"]
+  },
+  "Dewa Ndaru": {
+    "scientific_name": "Eugenia uniflora",
+    "description": "A plant rich in antioxidants that helps the body recover from fatigue. It supports the immune system and helps manage daily stress.",
+    "benefits": ["Fatigue", "Immune weakness", "Stress"]
+  },
+  "Doddapatre": {
+    "scientific_name": "Coleus amboinicus",
+    "description": "Also known as Indian Borage, it is a go-to remedy for respiratory issues like cold and cough, as well as soothing digestive cramps.",
+    "benefits": ["Cold", "Cough", "Fever", "Digestive cramps"]
+  },
+  "Ekka": {
+    "scientific_name": "Calotropis gigantea",
+    "description": "A plant used in traditional medicine for its potent anti-inflammatory properties. It is often applied externally to relieve joint and muscle pain.",
+    "benefits": ["Joint pain", "Inflammation", "Skin disorders"]
+  },
+  "Gandarusa": {
+    "scientific_name": "Justicia gendarussa",
+    "description": "A medicinal shrub primarily used for managing bone and joint-related issues. It helps reduce stiffness and improve mobility in joints.",
+    "benefits": ["Arthritis", "Joint pain", "Muscle stiffness"]
+  },
+  "Ganike": {
+    "scientific_name": "Solanum nigrum",
+    "description": "Commonly known as Black Nightshade, it is used in traditional medicine to support digestive health and combat physical fatigue.",
+    "benefits": ["Digestive weakness", "Fatigue"]
+  },
+  "Garut": {
+    "scientific_name": "Maranta arundinacea",
+    "description": "Arrowroot is a highly digestible starch source. It is excellent for people with sensitive stomachs and helps in recovering from low energy levels.",
+    "benefits": ["Digestive weakness", "Low energy", "Malnutrition support"]
+  },
+  "Gauva": {
+    "scientific_name": "Psidium guajava",
+    "description": "Guava leaves are a powerful traditional remedy for digestive upsets like diarrhea. They are also rich in Vitamin C for immune support.",
+    "benefits": ["Diarrhea", "Dysentery", "Oral infections", "Weak immunity"]
+  },
+  "Geranium": {
+    "scientific_name": "Geranium",
+    "description": "Known for its pleasant scent and skin-soothing properties. It is often used to manage skin inflammation and reduce symptoms of mild anxiety.",
+    "benefits": ["Skin inflammation", "Stress", "Anxiety"]
+  },
+  "Henna": {
+    "scientific_name": "Lawsonia inermis",
+    "description": "A natural coolant for the body. Henna is widely used to treat scalp issues like dandruff and provide relief from minor skin irritations or burns.",
+    "benefits": ["Dandruff", "Scalp infections", "Burns", "Skin irritation"]
+  },
+  "Hibiscus": {
+    "scientific_name": "Hibiscus rosa-sinensis",
+    "description": "A flowering plant renowned for hair care. It helps prevent premature greying and is used to support healthy blood pressure levels.",
+    "benefits": ["Hair fall", "Premature greying", "High blood pressure support"]
+  },
+  "Honge": {
+    "scientific_name": "Millettia pinnata",
+    "description": "Commonly known as Karanja, its oil and extracts are potent remedies for chronic skin diseases and support effective wound healing.",
+    "benefits": ["Skin diseases", "Inflammation", "Wound healing"]
+  },
+  "Honje": {
+    "scientific_name": "Etlingera elatior",
+    "description": "Torch Ginger is valued for its unique antioxidant profile. It supports digestive health and provides a refreshing boost to the body's natural defenses.",
+    "benefits": ["Digestive weakness", "Antioxidant support"]
+  },
+  "Iler": {
+    "scientific_name": "Coleus scutellarioides",
+    "description": "An ornamental plant with significant medicinal value for skin health. It is used to accelerate the healing of minor wounds and skin inflammations.",
+    "benefits": ["Wounds", "Skin inflammation", "Cuts"]
+  },
+  "Insulin": {
+    "scientific_name": "Costus igneus",
+    "description": "Specifically used for managing metabolic health. It is traditionally believed to help regulate blood sugar levels and improve insulin sensitivity.",
+    "benefits": ["Diabetes", "Blood sugar imbalance", "Insulin resistance"]
+  },
+  "Jahe": {
+    "scientific_name": "Zingiber officinale",
+    "description": "Ginger is a world-renowned remedy for digestive health. It is highly effective against nausea, motion sickness, and the common cold.",
+    "benefits": ["Nausea", "Indigestion", "Motion sickness", "Cold"]
+  },
+  "Jasmine": {
+    "scientific_name": "Jasminum",
+    "description": "The fragrance of jasmine has profound effects on the nervous system. It is used in traditional medicine to relieve stress and support restful sleep.",
+    "benefits": ["Stress", "Anxiety", "Insomnia"]
+  },
+  "Jeruk Nipis": {
+    "scientific_name": "Citrus aurantiifolia",
+    "description": "Lime is a powerhouse of Vitamin C and citric acid. It supports immune function, aids in detoxification, and helps balance digestive acidity.",
+    "benefits": ["Weak immunity", "Acidity", "Detoxification"]
+  },
+  "Kapulaga": {
+    "scientific_name": "Elettaria cardamomum",
+    "description": "Cardamom is a premium digestive spice. It helps in relieving nausea, improving appetite, and naturally freshening the breath.",
+    "benefits": ["Indigestion", "Bad breath", "Nausea"]
+  },
+  "Kayu Putih": {
+    "scientific_name": "Melaleuca leucadendra",
+    "description": "The source of Cajuput oil, which is used for its warming and clearing effects on the respiratory system and sore muscles.",
+    "benefits": ["Cold", "Muscle pain", "Chest congestion"]
+  },
+  "Kecibling": {
+    "scientific_name": "Strobilanthes crispus",
+    "description": "A traditional herb used to support urinary health. It is believed to help maintain healthy kidney function and clear urinary tracts.",
+    "benefits": ["Urinary infections", "Kidney health support"]
+  },
+  "Kemangi": {
+    "scientific_name": "Ocimum basilicum",
+    "description": "Lemon Basil is used to soothe the digestive system and manage daily stress. It also possesses mild natural antibacterial properties.",
+    "benefits": ["Digestive weakness", "Bacterial infections", "Stress"]
+  },
+  "Kembang Sepatu": {
+    "scientific_name": "Hibiscus rosa-sinensis",
+    "description": "Similar to Hibiscus, these flowers are used for hair nourishment and supporting healthy circulation and blood pressure.",
+    "benefits": ["Hair fall", "Skin inflammation", "Blood pressure support"]
+  },
+  "Kenanga": {
+    "scientific_name": "Cananga odorata",
+    "description": "Ylang-Ylang is famous for its calming essential oil. It is used to reduce anxiety, manage stress, and support those with sleep disorders.",
+    "benefits": ["Stress", "Anxiety", "Sleep disorders"]
+  },
+  "Kunyit": {
+    "scientific_name": "Curcuma longa",
+    "description": "Turmeric is a potent anti-inflammatory and antioxidant. It is widely used for joint health, digestive support, and healing wounds.",
+    "benefits": ["Arthritis", "Inflammation", "Wound healing", "Digestive disorders"]
+  },
+  "Lampes": {
+    "scientific_name": "Ocimum sanctum",
+    "description": "A relative of Holy Basil, it is used to combat physical fatigue and support the digestive system during periods of weakness.",
+    "benefits": ["Fatigue", "Digestive weakness"]
+  },
+  "Legundi": {
+    "scientific_name": "Vitex trifolia",
+    "description": "A traditional remedy for respiratory conditions. It is particularly valued for its ability to soothe coughs and manage symptoms of asthma.",
+    "benefits": ["Cough", "Asthma", "Fever"]
+  },
+  "Lemon": {
+    "scientific_name": "Citrus limon",
+    "description": "Rich in essential nutrients, lemon is used to boost immunity and revitalize dull skin through its detoxifying properties.",
+    "benefits": ["Vitamin deficiency", "Weak immunity", "Skin dullness"]
+  },
+  "Lemon_grass": {
+    "scientific_name": "Cymbopogon",
+    "description": "A refreshing grass used to manage mild fevers and digestive bloating. Its aroma is also highly effective for stress relief.",
+    "benefits": ["Fever", "Digestive bloating", "Stress"]
+  },
+  "Lidah Buaya": {
+    "scientific_name": "Aloe vera",
+    "description": "A widely recognized healing plant for skin and digestion. It provides immediate relief for minor burns and helps manage constipation.",
+    "benefits": ["Burns", "Constipation", "Skin rashes"]
+  },
+  "Mahkota Dewa": {
+    "scientific_name": "Phaleria macrocarpa",
+    "description": "A potent medicinal plant from Indonesia used for purifying the blood and managing various metabolic and inflammatory conditions.",
+    "benefits": ["Inflammation", "Blood purification", "Metabolic disorders"]
+  },
+  "Mango": {
+    "scientific_name": "Mangifera indica",
+    "description": "Mango leaves and fruits provide essential nutrients that support digestive function and overall nutritional balance.",
+    "benefits": ["Digestive weakness", "Nutrient deficiency"]
+  },
+  "Melati": {
+    "scientific_name": "Jasminum sambac",
+    "description": "Jasmine flowers are used topically to soothe minor skin irritations and aromatically to reduce daily stress and anxiety.",
+    "benefits": ["Skin irritation", "Stress", "Anxiety"]
+  },
+  "Meniran": {
+    "scientific_name": "Phyllanthus urinaria",
+    "description": "A small herb with significant power to support liver health. It is a traditional remedy for jaundice and immune system weakness.",
+    "benefits": ["Liver weakness", "Jaundice support", "Weak immunity"]
+  },
+  "Mint": {
+    "scientific_name": "Mentha",
+    "description": "Mint is an excellent remedy for various digestive complaints, including acidity and nausea. It also provides relief from tension headaches.",
+    "benefits": ["Acidity", "Nausea", "Headache", "Digestive cramps"]
+  },
+  "Murbey": {
+    "scientific_name": "Morus alba",
+    "description": "Mulberry leaves are used to support healthy blood sugar levels and provide strong antioxidant support for the entire body.",
+    "benefits": ["Blood sugar imbalance", "Antioxidant support"]
+  },
+  "Nagadali": {
+    "scientific_name": "Ruta graveolens",
+    "description": "Commonly known as Rue, it is used in traditional medicine to manage physical fatigue and soothe mild digestive discomfort.",
+    "benefits": ["Fatigue", "Digestive discomfort"]
+  },
+  "Neem": {
+    "scientific_name": "Azadirachta indica",
+    "description": "A cornerstone of herbal medicine, Neem is a powerful antiseptic. It is used for acne, skin infections, and supporting healthy blood sugar.",
+    "benefits": ["Skin infections", "Acne", "Diabetes support", "Wound healing"]
+  },
+  "Nilam": {
+    "scientific_name": "Pogostemon cablin",
+    "description": "Patchouli is known for its skin-healing properties, particularly for fungal issues and inflammation, as well as its grounding aroma.",
+    "benefits": ["Fungal infections", "Skin inflammation", "Stress"]
+  },
+  "Nithyapushpa": {
+    "scientific_name": "Catharanthus roseus",
+    "description": "Periwinkle is traditionally used to manage physical fatigue and help the body adapt to mental stress.",
+    "benefits": ["Fatigue", "Stress"]
+  },
+  "Nooni": {
+    "scientific_name": "Morinda citrifolia",
+    "description": "Noni is a tropical fruit known for its comprehensive immune-boosting and digestive-supporting properties.",
+    "benefits": ["Digestive weakness", "Weak immunity"]
+  },
+  "Pacing Petul": {
+    "scientific_name": "Costus speciosus",
+    "description": "Used in traditional medicine to manage bodily inflammations and provide relief from persistent joint pain.",
+    "benefits": ["Joint pain", "Inflammation"]
+  },
+  "Pandan": {
+    "scientific_name": "Pandanus amaryllifolius",
+    "description": "A fragrant plant that supports digestive health and is traditionally used to improve a lagging appetite.",
+    "benefits": ["Digestive weakness", "Appetite loss"]
+  },
+  "Pappaya": {
+    "scientific_name": "Carica papaya",
+    "description": "Papaya is famous for its digestive enzymes. It is an effective remedy for constipation and maintaining a healthy gut environment.",
+    "benefits": ["Constipation", "Digestive disorders", "Worm infestation"]
+  },
+  "Patah Tulang": {
+    "scientific_name": "Euphorbia tirucalli",
+    "description": "Traditionally used to support the healing of bones and joints. It has strong anti-inflammatory properties for external use.",
+    "benefits": ["Bone fractures (support)", "Joint pain", "Inflammation"]
+  },
+  "Pecut Kuda": {
+    "scientific_name": "Stachytarpheta jamaicensis",
+    "description": "A traditional remedy for relieving muscle pain and physical exhaustion after strenuous activity.",
+    "benefits": ["Muscle pain", "Fatigue", "Inflammation"]
+  },
+  "Pepper": {
+    "scientific_name": "Piper nigrum",
+    "description": "Black pepper is a warming spice that stimulates digestion and helps clear respiratory congestion during a cold.",
+    "benefits": ["Cold", "Poor digestion", "Circulation issues"]
+  },
+  "Pomegranate": {
+    "scientific_name": "Punica granatum",
+    "description": "A superfood fruit that supports heart health and blood quality. It is excellent for managing fatigue and anemia.",
+    "benefits": ["Anemia", "Heart health support", "Fatigue"]
+  },
+  "Raktachandini": {
+    "scientific_name": "Pterocarpus santalinus",
+    "description": "Red Sandalwood is prized for its skin-healing properties. It is used to manage skin diseases and support blood purification.",
+    "benefits": ["Skin diseases", "Blood purification"]
+  },
+  "Rose": {
+    "scientific_name": "Rosa",
+    "description": "Rose extracts are cooling and soothing. They are traditionally used to manage skin inflammation and provide relief from stress and anxiety.",
+    "benefits": ["Skin inflammation", "Stress", "Anxiety"]
+  },
+  "Saga Manis": {
+    "scientific_name": "Abrus precatorius",
+    "description": "Traditionally used in small, processed amounts to soothe the throat and manage symptoms of throat irritation or cough.",
+    "benefits": ["Cough", "Throat irritation"]
+  },
+  "Sapota": {
+    "scientific_name": "Manilkara zapota",
+    "description": "Chikoo is a high-energy fruit that supports digestive health and provides relief from physical fatigue.",
+    "benefits": ["Digestive weakness", "Fatigue"]
+  },
+  "Secang": {
+    "scientific_name": "Caesalpinia sappan",
+    "description": "Sappan wood is used to make a traditional medicinal drink that purifies the blood and helps reduce fever and inflammation.",
+    "benefits": ["Blood purification", "Fever", "Inflammation"]
+  },
+  "Sereh": {
+    "scientific_name": "Cymbopogon citratus",
+    "description": "Another variety of Lemongrass used to soothe digestive bloating, manage fever, and reduce stress.",
+    "benefits": ["Digestive bloating", "Fever", "Stress"]
+  },
+  "Sirih": {
+    "scientific_name": "Piper betle",
+    "description": "Similar to Betel, it is used for maintaining oral hygiene, relieving bad breath, and soothing coughs.",
+    "benefits": ["Oral infections", "Bad breath", "Cough"]
+  },
+  "Srikaya": {
+    "scientific_name": "Annona squamosa",
+    "description": "Sugar Apple provides essential nutrients and antioxidants that support healthy digestion and overall vitality.",
+    "benefits": ["Digestive weakness", "Antioxidant support"]
+  },
+  "Tin": {
+    "scientific_name": "Ficus carica",
+    "description": "Figs are a premier source of dietary fiber. They are excellent for managing constipation and soothing digestive irritation.",
+    "benefits": ["Constipation", "Digestive irritation"]
+  },
+  "Tulasi": {
+    "scientific_name": "Ocimum tenuiflorum",
+    "description": "Holy Basil is a 'queen of herbs.' It is highly effective for respiratory health issues like cold, cough, and asthma, while boosting immunity.",
+    "benefits": ["Cold", "Cough", "Asthma", "Weak immunity"]
+  },
+  "Wood_sorel": {
+    "scientific_name": "Oxalis",
+    "description": "A cooling plant used to manage acidity and soothe digestive irritation.",
+    "benefits": ["Acidity", "Digestive irritation"]
+  },
+  "Zigzag": {
+    "scientific_name": "Euphorbia tithymaloides",
+    "description": "An ornamental plant used in traditional medicine for its anti-inflammatory properties and stress relief.",
+    "benefits": ["Skin inflammation", "Stress"]
+  }
+}

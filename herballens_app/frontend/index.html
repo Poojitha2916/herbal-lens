@@ -1,0 +1,109 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Herbal Lens – AI Plant Expert</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app">
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar">
+    <div class="logo">
+      🌿 <span>Herbal Lens</span>
+    </div>
+
+    <nav>
+      <button id="navIdentify" class="active" onclick="showView('identify')">Identify</button>
+      <button id="navHistory" onclick="showView('history')">History</button>
+      <button id="navModel" onclick="showView('model')">Model Training</button>
+    </nav>
+
+    <div class="fact">
+      <strong>Did you know?</strong>
+      <p>There are over 390,000 plant species known to science.</p>
+    </div>
+  </aside>
+
+  <!-- MAIN -->
+  <main class="main">
+    
+    <!-- IDENTIFY VIEW -->
+    <div id="identifyView">
+      <h1>Discover the nature around you.</h1>
+      <p class="subtitle">
+        Identify herbal plants instantly with our AI-powered vision.
+      </p>
+
+      <!-- UPLOAD CARD -->
+      <div class="card upload-card">
+        <input type="file" id="imageInput" hidden onchange="previewImage(event)">
+        <label for="imageInput" class="drop-box">
+          <div id="imagePreview" style="display: none; margin-bottom: 15px;">
+            <img id="previewImg" src="" alt="Preview" style="max-width: 100%; border-radius: 8px;">
+          </div>
+          <div id="uploadPrompt">
+            ⬆️ <br>
+            <span>Drop your plant image here</span>
+            <small>or click to browse (JPG, PNG)</small>
+          </div>
+        </label>
+
+        <button class="identify-btn" onclick="predict()">Identify Plant</button>
+      </div>
+
+      <!-- RESULT -->
+      <div id="result" class="card result-card hidden"></div>
+    </div>
+
+    <!-- HISTORY VIEW -->
+    <div id="historyView" class="hidden">
+      <h1>Your Identification History</h1>
+      <p class="subtitle">Review your past plant discoveries.</p>
+      <div id="historyList" class="history-grid">
+        <!-- History items will be injected here -->
+      </div>
+      <button class="clear-history-btn" onclick="clearHistory()">Clear All History</button>
+    </div>
+
+    <!-- MODEL TRAINING VIEW -->
+    <div id="modelView" class="hidden">
+      <h1>Model Training</h1>
+      <p class="subtitle">Contribute to the AI's knowledge base.</p>
+      <div class="card">
+        <p>This feature is coming soon! You will be able to upload confirmed plant images to help improve our identification accuracy.</p>
+      </div>
+    </div>
+
+  </main>
+</div>
+
+<!-- CHATBOT -->
+<div class="chatbot-container" id="chatbot">
+  <div class="chat-header">
+    <div class="chat-title" onclick="toggleChat()">💬 HerbalLens Assistant</div>
+    <div class="chat-lang-toggle">
+      <button id="langEn" class="lang-btn active" onclick="setLanguage('en')">EN</button>
+      <button id="langTe" class="lang-btn" onclick="setLanguage('te')">తెలుగు</button>
+    </div>
+    <div class="chat-toggle" onclick="toggleChat()">−</div>
+  </div>
+  <div class="chat-body" id="chatBody">
+    <div class="chat-messages" id="chatMessages">
+      <div class="message-wrapper bot" data-en="Hello! I'm your HerbalLens assistant. Ask me about herbal remedies for any health concerns!" data-te="నమస్కారం! నేను మీ హెర్బల్ లెన్స్ అసిస్టెంట్ ని. ఏదైనా ఆరోగ్య సమస్యలకు మూలికా నివారణల గురించి నన్ను అడగండి!">
+        <div class="message bot">
+          Hello! I'm your HerbalLens assistant. Ask me about herbal remedies for any health concerns!
+        </div>
+      </div>
+    </div>
+    <div class="chat-input-area">
+      <input type="text" id="chatInput" placeholder="Ask about fever, skin, etc..." onkeypress="handleChatKey(event)">
+      <button onclick="sendMessage()">Send</button>
+    </div>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
